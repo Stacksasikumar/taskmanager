@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "text": "Food Shopping",
+        "day": "Monday",
+        "reminder":true
+
+    },
+    {
+        "id": 2,
+        "text": "Tablet",
+        "day": "Friday",
+        "reminder":false
+
+    },
+    {
+        "id": 3,
+        "text": "Hospital",
+        "day": "Tuesday",
+        "reminder":true
+
+    }
+]
