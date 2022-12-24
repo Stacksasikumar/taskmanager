@@ -7,16 +7,28 @@
       "id": 1
     },
     {
-      "text": "Abirami",
-      "day": "Friday",
+      "text": "Abi Birthday",
+      "day": "sunday",
       "reminder": true,
       "id": 2
     },
     {
-      "text": "Sasikumar",
-      "day": "Sunday",
-      "reminder": true,
+      "text": "Sasi",
+      "day": "Wenesday",
+      "reminder": false,
       "id": 3
+    },
+    {
+      "text": "Sasi meeting",
+      "day": "Tuesday",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "Abi Temple",
+      "day": "sunday",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
